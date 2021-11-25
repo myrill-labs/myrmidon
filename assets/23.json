@@ -1,0 +1,66 @@
+{
+    "name": "Myrmidon 23",
+    "symbol": "",
+    "description": "Ancestors of Myrmidon - son of Zeus and Eurymedousa - the Myrmidons are mythical soldiers commanded by Achilles. According to Wikipedia, it is only in pre-industrial Europe that the word myrmidon carried many of the same connotations that robot does today. A Myrill's Myrmidon is kind of both, a neat pixel art representing a legendary warrior and a robot, or should I say an A.I. entity. This bot is specifically designed to trade on crypto markets. Unlike others trading bots, a myrmidon can learn from its mistakes and successes. Myrmidons thrive on adversarial markets, this is where they learn the most. They are capable of countering market manipulations, reading market patterns, pumps, and much more. They can think fast, react accordingly and adapt. To do that, using a mathematical framework called Reinforcement Learning, we ask the bot to maximize its return and minimize its risk. By feeding it past and live data, it can derive an optimal strategy and beat the market. This state-of-the-art technology, secretly adopted by a few high-performing hedge funds, is now accessible for anyone. Buying a Myrmidon unlocks three decisive advantages to compete against the unforgiving market. First, it gives you exclusive access to a unique crypto trading bot. NFT attributes display all bot's characteristics. Second, you gain membership to the Myrill Club (https://myrill.io/club) and lifetime support (as long as you own the NFT). Finally, you get early access to the Myrill platform (https://myrill.io) at least a year before the open beta. For more information, visit https://myrill.io/whitepaper.",
+    "seller_fee_basis_points": 666,
+    "image": "23.png",
+    "attributes": [
+        {
+            "trait_type": "scenario",
+            "value": "spot trading",
+            "trait_count": 50
+        },
+        {
+            "trait_type": "scenario probability",
+            "value": 0.5
+        },
+        {
+            "trait_type": "exchange",
+            "value": "Coinbase",
+            "trait_count": 10
+        },
+        {
+            "trait_type": "instrument",
+            "value": "MANA (spot)",
+            "trait_count": 9
+        },
+        {
+            "trait_type": "frequency",
+            "value": "daily",
+            "trait_count": 19
+        },
+        {
+            "trait_type": "market data",
+            "value": "trade",
+            "trait_count": 35
+        },
+        {
+            "trait_type": "release",
+            "value": "gamma",
+            "trait_count": 10
+        },
+        {
+            "trait_type": "myrmidon id",
+            "value": 23
+        }
+    ],
+    "collection": {
+        "name": "Release gamma",
+        "family": "Myrmidons"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "23.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "EidNXXqQS3xf51utL4UFWoyEE2ZUFcdL683cZnpBGqjJ",
+                "share": 100
+            }
+        ]
+    }
+}
